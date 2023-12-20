@@ -35,7 +35,7 @@ inquirer
     },
     {
       type: 'input',
-      message: 'PLease enter usage information.',
+      message: 'Please enter usage information.',
       name: 'usage',
     },
     {
@@ -73,7 +73,8 @@ inquirer
 
     ##License
 
-    ${data.license}
+    ![Static Badge](https://img.shields.io/badge/${data.license}-FC8EAC)
+
 
     ## Description
     
