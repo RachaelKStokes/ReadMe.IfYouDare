@@ -1,10 +1,10 @@
 
 
-# myreadme
+# ReadMe if You Dare
 
 ## License
 
-![Static Badge](https://img.shields.io/badge/license-MIT-#FF69B4)
+![Github license](https://img.shields.io/badge/license-MIT-pink.svg)
 
 
 ## Description
@@ -21,21 +21,21 @@ undefined
 
 ## Installation
 
-install
+N/A
 
 ## Usage
 
-use
+run index.js and follow the prompts
 
 ## Contributing
 
-nop
+N/A
 
 ## Tests
 
-no
+N/A
 
 ## Questions
 
 If you have any additional questions please feel free to reach me at:
-rachaelkstokes or np. 
+![liveURL](https://github.com/rachaelkstokes) or rachael.kate.stokes@no.com. 
