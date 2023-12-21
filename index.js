@@ -16,7 +16,7 @@ function generateMarkdown(data) {
         type: 'input',
         message: 'Please enter a description of your project.',
         name: 'description',
-        default: 'lorem ipsum',
+        
       },
       {
         type: 'input',
@@ -68,7 +68,7 @@ function generateMarkdown(data) {
 
 ## Description
 
-${data.decription}
+${data.description}
 
 ## Table of Contents
 
