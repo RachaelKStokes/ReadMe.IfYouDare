@@ -1,6 +1,6 @@
 
 
-# ReadMe if You Dare
+# yes
 
 ## License
 
@@ -21,21 +21,21 @@ undefined
 
 ## Installation
 
-N/A
+yes
 
 ## Usage
 
-run index.js and follow the prompts
+yes
 
 ## Contributing
 
-N/A
+yes
 
 ## Tests
 
-N/A
+yes
 
 ## Questions
 
 If you have any additional questions please feel free to reach me at:
-![liveURL](https://github.com/rachaelkstokes) or rachael.kate.stokes@no.com. 
+GitHub: ![liveURL](https://github.com/yes) or yes. 
