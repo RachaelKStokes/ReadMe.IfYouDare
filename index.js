@@ -97,7 +97,7 @@ ${data.tests}
 ## Questions
 
 If you have any additional questions please feel free to reach me at:
-![liveURL](https://github.com/${data.github}) or ${data.email}. 
+GitHub: ![liveURL](https://github.com/${data.github}) or ${data.email}. 
 `
 
       if (!fs.existsSync('./output')) {
